@@ -1,4 +1,4 @@
 __pycache__
-*__pycache__
+**__pycache__
 env
 model_naive_bayes_v2.sav
