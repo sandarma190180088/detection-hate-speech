@@ -4,7 +4,7 @@ The dataset totals more than 2000 data, the data has 3 classes namely, hate spee
 ## Installation and Setup
 - install library :
 ```bash
-pip install -r requeirements.txt
+pip install -r requirements.txt
 ```
 
 - after install library, run this is command :
